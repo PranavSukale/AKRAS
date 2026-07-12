@@ -1,0 +1,22 @@
+                PDF
+                 │
+                 ▼
+        Ingestion Service
+                 │
+                 ▼
+          Text Chunking
+                 │
+                 ▼
+      Embedding Generation
+                 │
+                 ▼
+          FAISS Vector DB
+                 │
+                 ▼
+        Retrieval Service
+                 │
+                 ▼
+          Gemini Service
+                 │
+                 ▼
+              Answer
